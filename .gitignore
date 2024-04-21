@@ -6,4 +6,5 @@ node_modules
 
 # other
 zig
+lib
 private
